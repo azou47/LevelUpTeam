@@ -1,4 +1,4 @@
-Im am so handsome
+ADDED MY SELF TO THIS PROJECT IM THE G
 Level UP all the way#!/bin/bash
 
 echo "Please enter your name:"
